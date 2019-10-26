@@ -70,7 +70,7 @@
 ```
 
 #### Figure 2: Corresponding computation graph for Figure 1
-<img src="http://cdn.rawgit.com/samjabrahams/tensorflow-white-pages-notes/master/img/figure2.svg" id="figure2" style="max-height: 300px"></img>
+<img src="https://cdn.jsdelivr.net/gh/samjabrahams/tensorflow-white-pages-notes@master/img/figure2.svg" id="figure2" style="max-height: 300px"></img>
 
 ### Operations and Kernels
 
@@ -122,7 +122,7 @@ Control flow operations | Merge, Switch, Enter, Leave, NextIteration
 	* 0.8버전이 릴리즈되면서 [분산처리]((https://github.com/tensorflow/tensorflow/tree/master/tensorflow/core/distributed_runtime))가 가능한 버젼이 배포되었다.
 
 #### Figure 3: Single machine (left) and distributed system (right) structure
-<img src="http://cdn.rawgit.com/samjabrahams/tensorflow-white-pages-notes/master/img/figure3.svg" id="figure3" style="max-height: 300px"></img>
+<img src="https://cdn.jsdelivr.net/gh/samjabrahams/tensorflow-white-pages-notes@master/img/figure3.svg" id="figure3" style="max-height: 300px"></img>
 
 ### Devices
 
@@ -598,19 +598,19 @@ _Feature implementations that are most similar to TensorFlow are listed after th
 
 
 #### Figure 4: Before and after insertion of Send/Recieve nodes
-<img src="http://cdn.rawgit.com/samjabrahams/tensorflow-white-pages-notes/master/img/figure4.svg" id="figure4" style="max-height: 300px"></img>
+<img src="https://cdn.jsdelivr.net/gh/samjabrahams/tensorflow-white-pages-notes@master/img/figure4.svg" id="figure4" style="max-height: 300px"></img>
 
 #### Figure 5: Gradients computed for graph in figure 2
-<img src="http://cdn.rawgit.com/samjabrahams/tensorflow-white-pages-notes/master/img/figure5.svg" id="figure5" style="max-height: 300px"></img>
+<img src="https://cdn.jsdelivr.net/gh/samjabrahams/tensorflow-white-pages-notes@master/img/figure5.svg" id="figure5" style="max-height: 300px"></img>
 
 #### Figure 6: Before and after graph transformation for partial execution
-<img src="http://cdn.rawgit.com/samjabrahams/tensorflow-white-pages-notes/master/img/figure6.svg" id="figure6" style="max-height: 300px"></img>
+<img src="https://cdn.jsdelivr.net/gh/samjabrahams/tensorflow-white-pages-notes@master/img/figure6.svg" id="figure6" style="max-height: 300px"></img>
 
 #### Figure 7: Synchronous and asynchronous data parallel training
-<img src="http://cdn.rawgit.com/samjabrahams/tensorflow-white-pages-notes/master/img/figure7.svg" id="figure7" style="max-height: 300px"></img>
+<img src="https://cdn.jsdelivr.net/gh/samjabrahams/tensorflow-white-pages-notes@master/img/figure7.svg" id="figure7" style="max-height: 300px"></img>
 
 #### Figure 8: Model parallel training
-<img src="http://cdn.rawgit.com/samjabrahams/tensorflow-white-pages-notes/master/img/figure8.svg" id="figure8" style="max-height: 300px"></img>
+<img src="https://cdn.jsdelivr.net/gh/samjabrahams/tensorflow-white-pages-notes@master/img/figure8.svg" id="figure8" style="max-height: 300px"></img>
 
 #### Figure 9: Concurrent steps
-<img src="http://cdn.rawgit.com/samjabrahams/tensorflow-white-pages-notes/master/img/figure9.svg" id="figure9" style="max-height: 300px"></img>
+<img src="https://cdn.jsdelivr.net/gh/samjabrahams/tensorflow-white-pages-notes@master/img/figure9.svg" id="figure9" style="max-height: 300px"></img>
